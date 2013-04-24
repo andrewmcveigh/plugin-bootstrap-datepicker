@@ -1,0 +1,3 @@
+[submodule "resources/META-INF/resources/plugins/bootstrap-datepicker"]
+	path = resources/META-INF/resources/plugins/bootstrap-datepicker
+	url = git@github.com:eternicode/bootstrap-datepicker.git
